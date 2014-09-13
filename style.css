@@ -1,0 +1,14 @@
+.mainhead{
+
+	width: 100%;
+	background-color: black;
+	text-align: left;
+	font-size: 30px;
+	color: silver;
+	padding: 1% 0% 1% 0%
+}
+
+.container{
+	width: 100%;
+	background-color: white;
+}
